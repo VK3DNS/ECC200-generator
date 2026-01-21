@@ -1,8 +1,8 @@
 # ECC200-generator
 
-it can be run from the browser to open a terminal and take input.
+it can be opened without arguments to open a prompt menu
 
-it can be given system arguments to batch process inputs
+it can be run with system arguments to batch process inputs
 
 
 
