@@ -1,6 +1,6 @@
 # ECC200-generator
 
-it can be opened without arguments to open a prompt menu
+it can be opened without arguments to use a prompt menu
 
 it can be run with system arguments to batch process inputs
 
